@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hey, I'm Caio!
 
-<!--
-**CaioOlive/CaioOlive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineering student based in Santos, Brazil. 
+I have a background in graphic design, which helps me think about 
+problems from both a technical and visual perspective.
 
-Here are some ideas to get you started:
+## Technologies & Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:** Python · Java · HTML · CSS · MySQL  
+**Tools:** Git · PyCharm · VS Code  
+**Design:** Adobe Photoshop · Adobe Illustrator · Figma  
+
+## Currently Learning
+
+- Python (Angela Yu's 100 Days of Code)
+- Java
+- Web Development (Angela Yu's Complete Fullstack Bootcamp)
+
+## Projects
+
+- **[movie-tracker](https://github.com/caioolive/movie-tracker)**: 
+   Personal movie tracking system built in Python
+
+## Fun facts
+- Currently trying out Zorin OS 18.1 (so far, I'm enjoying it)
+
+## Get in Touch
+
+- LinkedIn: [linkedin.com/in/caio-oliveira-15b3171a6](https://linkedin.com/in/caio-oliveira-15b3171a6)
+- Email: caio.oliveira.019@gmail.com
