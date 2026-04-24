@@ -1,8 +1,7 @@
 # Hey, I'm Caio!
 
 I'm a Software Engineering student based in Santos, Brazil. 
-I have a background in graphic design, which helps me think about 
-problems from both a technical and visual perspective.
+I have a background in graphic design, which gives me a wider perspective when approaching problems.
 
 ## Technologies & Skills
 
