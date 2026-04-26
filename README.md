@@ -23,6 +23,8 @@ I have a background in graphic design, which gives me a wider perspective when a
    Snake game made as part of Angela Yu's 100 Days of Code
 - **[pong-game](https://github.com/CaioOlive/pong-game)**:
    Pong game made as part of Angela Yu's 100 Days of Code
+- **[turtle-crossing-road-game](https://github.com/CaioOlive/turtle-crossing-road-game)**:
+   Turtle crossing road game made as part of Angela Yu's 100 Days of Code
 
 ## Fun facts
 - Currently trying out Zorin OS 18.1 (so far, I'm enjoying it)
