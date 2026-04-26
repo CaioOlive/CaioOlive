@@ -20,9 +20,9 @@ I have a background in graphic design, which gives me a wider perspective when a
 - **[movie-tracker](https://github.com/caioolive/movie-tracker)**: 
    Personal movie tracking system built in Python
 - **[snake-game](https://github.com/CaioOlive/snake-game)**:
-   Snake-game made as part of Angela Yu's 100 Days of Code
+   Snake game made as part of Angela Yu's 100 Days of Code
 - **[pong-game](https://github.com/CaioOlive/pong-game)**:
-   Snake-game made as part of Angela Yu's 100 Days of Code
+   Pong game made as part of Angela Yu's 100 Days of Code
 
 ## Fun facts
 - Currently trying out Zorin OS 18.1 (so far, I'm enjoying it)
