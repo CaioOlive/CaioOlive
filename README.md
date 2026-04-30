@@ -28,7 +28,7 @@ I have a background in graphic design, which gives me a wider perspective when a
 - **[python-logic-exercises](https://github.com/CaioOlive/python-logic-exercises)**:
    Python exercises part of a college assignment
 - **[coin-bank-java](https://github.com/CaioOlive/coin-bank-java)**:
-   Java coinbank project part of a college assignment
+   Java coin bank project part of a college assignment
 
 ## Fun facts
 - Currently trying out Zorin OS 18.1 (so far, I'm enjoying it)
