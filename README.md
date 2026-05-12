@@ -19,6 +19,8 @@ I have a background in graphic design, which gives me a wider perspective when a
 
 - **[movie-tracker](https://github.com/caioolive/movie-tracker)**: 
    Personal movie tracking system built in Python
+- **[loja-baozi](https://github.com/caioolive/loja-baozi)**: 
+   A simple REST API for a small Chinese bun store, built with Java and Spring Boot, part of a college assignment (this project uses both Portuguese and English)
 - **[snake-game](https://github.com/CaioOlive/snake-game)**:
    Snake game made as part of Angela Yu's 100 Days of Code
 - **[pong-game](https://github.com/CaioOlive/pong-game)**:
